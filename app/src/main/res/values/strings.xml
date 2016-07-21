@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">UserApp</string>
+    <string name="app_name">OHJIYOUNG</string>
+    <string name="status">상태</string>
+    <string name="place">사용처</string>
+    <string name="price">사용금액</string>
+    <string name="date">사용일자</string>
+    <string name="memo">적요(메모)</string>
+    <string name="account">계정</string>
+    <string name="receipt">영수증</string>
+    <string name="user_name">user</string>
+    <string name="user_password">********</string>
+    <string name="LOGIN">LOGIN</string>
 </resources>
