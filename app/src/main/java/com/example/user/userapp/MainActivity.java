@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             });
 
             Toolbar toolbar = (Toolbar) findViewById(R.id.toolBar);
-            toolbar.setTitle("login");
+            toolbar.setTitle("ohjiyoung");
             toolbar.setTitleTextColor(Color.WHITE);
             setSupportActionBar(toolbar);
 
