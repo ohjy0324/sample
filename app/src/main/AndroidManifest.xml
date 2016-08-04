@@ -18,7 +18,12 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".PublicActivity" />
         <activity android:name=".PublicDetailActivity" />
-        <activity android:name=".requestActivity"/>
+        <activity android:name=".requestActivity" />
+        <activity android:name=".CommNetwork" />
+        <activity android:name=".onNetworkResponseListener"></activity>
+
+        <uses-permission android:name="android.permission.INTERNET" />
+
     </application>
 
 </manifest>
